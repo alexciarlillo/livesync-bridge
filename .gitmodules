@@ -1,3 +1,5 @@
 [submodule "lib"]
 	path = lib
 	url = https://github.com/vrtmrz/livesync-commonlib
+[submodules "lib"]
+	branch = main
